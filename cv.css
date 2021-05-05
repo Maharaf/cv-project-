@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #EEE;
+    font-family: "Roboto", sans-serif  ;
+
+
+}
+.container{
+    max-width: 900px;
+    background-color: #E4F9F5;
+    margin: 0 auto;
+    padding: 20px;
+
+} 
+header{
+
+}
+#profile{
+    width: 80px;
+    height: 90px;
+     border-radius: 50%;
+     float: left;
+
+}
+.header-bio{
+    float: left;
+    padding: 10px;
+
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999E;
+
+}
+.header-contact{
+    float: right;
+    padding: 15px;
+    font-weight: bold;
+}
+
+    .header-contact a{
+  
+    color: #11999E;
+    text-decoration: none;
+}
+.header-contact a:hover{
+    
+    color:tomato;
+    text-decoration: underline;
+}
+.div-clear{
+   clear: both;
+}
+hr{
+    border:solid black 2px;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.left-div{
+    float: left;
+    width:30%;
+   
+}
+.right-div{
+    float: left;
+    width: 70%;
+}
+.age{
+   padding-left: 44px;
+}
+.sex{
+    padding-left:47px;
+}
+.right-w{
+    float: left;
+    width: 70%;
+}
+.left-w{
+    float: left;
+    width: 30%;
+}
+#hr{
+    clear: both;
+   
+    border-bottom:none ;
+}
+
+
